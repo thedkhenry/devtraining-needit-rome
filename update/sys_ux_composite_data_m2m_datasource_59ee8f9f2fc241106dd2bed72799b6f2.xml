@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="NeedIt Application EVAM Definition">1fabc75f2fc241106dd2bed72799b6bc</dataset>
+        <datasource display_value="My NeedIt Tasks EVAM Datasource">b8aecf9f2fc241106dd2bed72799b664</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-10 23:12:50</sys_created_on>
+        <sys_id>59ee8f9f2fc241106dd2bed72799b6f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_59ee8f9f2fc241106dd2bed72799b6f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-10 23:12:50</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
